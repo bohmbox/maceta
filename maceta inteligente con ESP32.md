@@ -3,6 +3,7 @@ Una maceta inteligente para atender el bienestar de la planta.
 Para un proyecto centrado en el bienestar de una planta utilizando un microcontrolador ESP32, es fundamental considerar sensores y actuadores que monitoreen y controlen las variables ambientales clave para el crecimiento saludable de la planta. A continuación, se detalla una lista de sensores y actuadores recomendados, junto con su justificación:
 
 
+
 La comunicación del microcontrolador a traveś de un módulo bluethooth en tiempo real y de bajo consumo (BLE)
 
 TABLA DE COMPONENTES SELECCIONADOS
