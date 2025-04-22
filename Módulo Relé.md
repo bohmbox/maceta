@@ -1,0 +1,1 @@
+the ESP32 GPIO pins can't supply much current, so a transistor might be needed to drive the relay coil. Oh right, most relays require more current than a GPIO pin can provide, so using a transistor like a MOSFET or a bipolar junction transistor (BJT) as a switch would be necessary. Also, a flyback diode across the relay coil to prevent voltage spikes when turning it off.
