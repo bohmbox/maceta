@@ -1,0 +1,1 @@
+The pump is 12V, so it requires a higher voltage than the ESP32's 3.3V or 5V outputs. That's where the relay comes in. Relays act as switches that can handle higher voltages and currents, controlled by a lower voltage signal from the ESP32.
