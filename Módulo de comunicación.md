@@ -1,0 +1,1 @@
+La comunicación del microcontrolador a traveś de un módulo bluethooth en tiempo real y de bajo consumo (BLE)
